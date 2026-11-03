@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T05:29:53.513Z",
+  "generated_at": "2026-11-03T05:30:08.138Z",
   "items": {
     "problem:3": {
       "kind": "problem",
@@ -36,7 +36,7 @@
       "url": "https://www.deep-ml.com/problems/1189",
       "path": "problems/1189-parallel-reduction-block-sum-cuda-kernel",
       "first_solved_at": "2026-11-03T05:29:41.022Z",
-      "last_pushed_at": "2026-11-03T05:29:41.022Z",
+      "last_pushed_at": "2026-11-03T05:30:05.805Z",
       "language": "python",
       "lines": 114
     }
