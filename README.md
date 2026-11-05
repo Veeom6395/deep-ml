@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 4 problems · 0 labs · 0 math
+**5** solved · 5 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-11-04 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-11-02 | [solution](problems/0003-reshape-matrix) |
+| [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-05 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-11-02 | [solution](problems/0007-matrix-transformation) |
 | [Parallel Reduction (Block Sum) CUDA Kernel](https://www.deep-ml.com/problems/1189) | medium | 2026-11-03 | [solution](problems/1189-parallel-reduction-block-sum-cuda-kernel) |
 
